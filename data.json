@@ -1,0 +1,19 @@
+{
+  "market": {
+    "crypto": {
+      "BTC": {
+        "price_eur": 95420.75,
+        "volume_24h": 28500000000,
+        "market_cap": 1875000000000,
+        "change_24h": 2.35
+      },
+      "ETH": {
+        "price_eur": 3580.42,
+        "volume_24h": 15200000000,
+        "market_cap": 430000000000,
+        "change_24h": 1.87
+      }
+    },
+    "last_updated": "2024-12-14T10:00:00Z"
+  }
+}
